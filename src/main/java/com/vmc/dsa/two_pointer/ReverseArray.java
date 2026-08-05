@@ -1,4 +1,4 @@
-package com.vmc.dsa.reversepattern;
+package com.vmc.dsa.two_pointer;
 
 import java.util.Arrays;
 
