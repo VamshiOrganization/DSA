@@ -22,9 +22,10 @@ public class OptimalSearching {
 		arr[m]=x;
 		System.out.println(Arrays.toString(arr));
 		for(int i=0;arr[i]!=x;i++) {
-			if(i==m) return true;
+			if(i==m) return false;
+			else return true;
 		}
-		return false;
+
 		
 	}
 
